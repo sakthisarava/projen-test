@@ -110,6 +110,10 @@
       "type": "peer"
     },
     {
+      "name": "@aws-cdk/assert",
+      "type": "runtime"
+    },
+    {
       "name": "@aws-cdk/aws-iam",
       "type": "runtime"
     },

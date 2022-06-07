@@ -12,7 +12,8 @@ const project = new awscdk.AwsCdkConstructLibrary({
 
   deps: [
     '@aws-cdk/aws-iam',
-    '@aws-cdk/core'
+    '@aws-cdk/core',
+    '@aws-cdk/assert'
   ],
   release: true,
   publishToPypi: {
